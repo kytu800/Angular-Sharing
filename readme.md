@@ -27,7 +27,6 @@
 	- module
 		![Angular Hierachy](hierachy.png) 
 		![Angular Module](module.png)  
-
 		
 	- router
 		* ng-view
