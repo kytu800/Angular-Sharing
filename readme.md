@@ -2,8 +2,6 @@
 
 ## 大綱
 
-![Angular Hierachy](hierachy.png) 
-
 * 簡介 AngularJs (利用 [angular-express-ejs-seed](https://github.com/maru0923/angular-express-ejs-seed) )
 
 	- controller
@@ -27,6 +25,7 @@
 		* filter
 				
 	- module
+		![Angular Hierachy](hierachy.png) 
 		![Angular Module](module.png)  
 
 		
